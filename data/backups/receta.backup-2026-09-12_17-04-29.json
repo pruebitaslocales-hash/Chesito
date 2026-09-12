@@ -1,0 +1,213 @@
+{
+    "texts": {
+        "coverTitle": "Sazón  de la vida",
+        "coverSubtitle": "Álbum de Recetas & Cartas",
+        "coverDedication": "Dedicado a",
+        "coverButton": "Abrir Recetario",
+        "pageNames": [
+            "PORTADA",
+            "COMANDA",
+            "MISE EN PLACE",
+            "ÁLBUM",
+            "CARTAS",
+            "RECUERDOS",
+            "COMANDA FINAL"
+        ],
+        "page1Quote": "Para quien entiende que cocinar no es solo tirar ingredientes, sino entregar el alma en cada servicio.",
+        "page2Title": "Mise en Place",
+        "page2Desc": "Todo gran plato nace en una preparación impecable",
+        "page2Quote": "En la cocina profesional, como en la vida, el orden de la partida define como acaba el servicio",
+        "page3Title": "Álbum de Recetas",
+        "page3Desc": "Haz clic en cada foto para ver la historia completa",
+        "page3Quote": "Una foto vale más que mil palabras, pero una foto compartida vale más que mil recetas ",
+        "page4Title": "Cartas de los Nuestros",
+        "page4Desc": "Cada carta es un abrazo. Toca para leer la completa.",
+        "page5Title": "Recuerdos: Tu Camino a lo que Eres Hoy",
+        "page5Desc": "Cada foto es un capítulo de tu historia. Toca para revivirlo.",
+        "page5Quote": "Los recuerdos son los ingredientes que dan sabor a quien somos.",
+        "page6Title": "La Comanda",
+        "page6Desc": "Un boleto para ti"
+    },
+    "chef": {
+        "name": "Chef Juanjo - Chesito",
+        "title": "Chef Ejecutivo & Jefe de Cocina",
+        "emoji": "👨‍🍳",
+        "noteKicker": "CHEF · NOTA PERSONAL",
+        "noteTitle": "La Receta de Nuestra Amistad",
+        "noteText": "¡Prueba siempre antes de servir! Nunca mandes un plato que no comas tú primero.",
+        "noteFoot": "CHESITO · LA RECETA DE NUESTRA AMISTAD",
+        "noteStamp": "Sello del Chef",
+        "photo": "fotos/12.jpeg"
+    },
+    "comanda": {
+        "mesa": "Los Extraditables",
+        "comensales": "1",
+        "fecha": "12 de Septiembre del 2026"
+    },
+    "ingredientes": [
+        {
+            "id": "Amor de madre",
+            "emoji": "👩‍👦",
+            "photo": "fotos/22.jpeg",
+            "title": "Amor de madre",
+            "desc": "El ingrediente que hace crecer cualquier receta",
+            "anecdota": "Nunca se empieza un buen día sin la bendición de madre, quien apoya cada momento y pequeño logro en esta vida. Literal por eso existe la gran masa madre"
+        },
+        {
+            "id": "Condimento Sorpresa",
+            "emoji": "🧧",
+            "photo": "fotos/5.jpeg",
+            "title": "Condimento Sorpresa",
+            "desc": "Su especialidad es convertir cualquier momento en una buena anécdota",
+            "anecdota": "Un ingrediente impredecible, espontáneo y con mucha personalidad. Nunca sabes cuándo aparece, pero una vez esta en la receta es imposible que pase desapercibido "
+        },
+        {
+            "id": "Chispa",
+            "emoji": "🔥",
+            "photo": "fotos/17.jpeg",
+            "title": "Chispa",
+            "desc": "Su función es encender el ambiente y dejar huella donde quiera que esté",
+            "anecdota": "Una chispa intensa, auténtica y llena de energía. Esa que aparece en cada momento y le pone carácter, emoción y este toque tan suyo en la receta."
+        },
+        {
+            "id": "Reserva especial",
+            "emoji": "🍷",
+            "photo": "fotos/23.jpeg",
+            "title": "Reserva especial",
+            "desc": "Su finalidad es crecer, evolucionar y convertirse en una mejor versión de sí mismo",
+            "anecdota": "Un ingrediente que adquiere más valor con el tiempo, construido a partir de experiencias, aprendizajes y sueños que están aún por descubrir"
+        }
+    ],
+    "fotos": [
+        {
+            "src": "fotos/1.jpeg",
+            "title": "Receta Familiar",
+            "story": "Como ya es tradición, un asado entre nosotros se convierte en una anécdota indescriptible, al igual que enmarcar nuestra pose preferida para las fotos "
+        },
+        {
+            "src": "fotos/6.jpeg",
+            "title": "Sobremesa Infinita",
+            "story": " Esos planes que  nacen en una charla casual, terminan siendo los planes más recordados. La iniciativa de uno, la idea del segundo y la decisión del tercero hacen todo realidad. PERO CUIDADO si uno falta nunca será lo mismo"
+        },
+        {
+            "src": "fotos/13.jpeg",
+            "title": "El Día del Gran Banquete",
+            "story": "Lugares como este nos saca nuestro lado más estúpido. Juegos, saltarines, circuitos, luchas y en medio de esa locura se nos ocurre una foto como 3 salchichas luego de un salto extraño. "
+        },
+        {
+            "src": "fotos/8.jpeg",
+            "title": " Nuestro Primer Servicio",
+            "story": "Nuevamente saliendo de la nada, en una coincidencia entre millones. Así fue nuestro primer viaje, mucha piscina como niños pequeños, una noche sentimental incluso despechados y  nuestro favorito el charco #pipeguerrillo"
+        }
+    ],
+    "galeria": [
+        {
+            "src": "fotos/recuerdo-1.jpg",
+            "titulo": "Primeros fogones",
+            "pie": "2015 — Cuando todo comenzó en la cocina de casa"
+        },
+        {
+            "src": "fotos/recuerdo-2.jpg",
+            "titulo": "El primer servicio",
+            "pie": "2017 — Noche de nerves y triunfos en el restaurante"
+        },
+        {
+            "src": "fotos/recuerdo-3.jpg",
+            "titulo": "Sobremesa de planificación",
+            "pie": "2019 — Soñando con nuestro propio lugar"
+        },
+        {
+            "src": "fotos/recuerdo-4.jpg",
+            "titulo": "Gran banquete",
+            "pie": "2022 — 200 comensales, una sola familia"
+        }
+    ],
+    "cartas": [
+        {
+            "from": "Mamá Stellita",
+            "seal": "👩‍👧",
+            "photo": "fotos/14.jpeg",
+            "text": "Hijo mío desde que estabas en mi pancita, te amamos mucho, tu hermanito ,Te consentía mucho ,eras los ojos de tu hermanito y de tu padre y aún todos nos preocupamos por ti, siempre ha sido así,  has sido amado y a medida de tu crecimiento como persona , en la parte humana ,en la parte espiritual ,en la parte física,  Recuerda que eres hermoso y Dios quiere lo mejor para ti, cuida de tu cuerpo, es Templo del Espíritu Santo , por eso debes evitar el alcohol debes evitar esas malas compañías que te alejan de propósito de Dios y Siéntate orgulloso, de ser quien eres, nos sentimos muy orgullosos de ti porque con  tus bromas, con tu alegría, con tu sonrisa, con tus travesuras, nos hace sentir muy felices,  hijo No dejes Apagar esa luz que hay en ti, y el señor tiene cosas grandes para ti, todos estamos muy orgullosos y sé que vas a llegar muy lejos, tienes que seguir trabajando, en tu ser de la manita de papito Dios y él te va a llevar a lugares maravillosos,  ámalo a él primeramente, también a tus padres todo se reflejará en tus buenos resultados, Recuerda que Dios tiene esa chica ideal para ti amor , y vas a ser muy feliz , estudia eduquese lo más que pueda, respeta para que te respeten y que Dios te bendiga y te proteja siempre. Con amor tu mami  Stellita"
+        },
+        {
+            "from": "Brayitan",
+            "seal": "🤜",
+            "photo": "fotos/10.jpeg",
+            "text": "Hermano de otra madre. Desde aquella noche de cierre donde nos quedamos los últimos limpiando, supe que eres de los que se quedan cuando todos se van. La cocina nos unió, la vida nos hermanó."
+        },
+        {
+            "from": "Papá Edinson",
+            "seal": "👨‍👦",
+            "photo": "fotos/16.jpeg",
+            "text": "Hijo deseándote siempre lo mejor recuerda que eres muy inteligente el tiempo pase se nos va la vida aprovecha aprovéchala y prepárate físicamente intelectualmente Y espiritualmente la felicidad depende solo de ti recuerda que te amo mucho feliz cumpleaños."
+        },
+        {
+            "from": "Pipitas",
+            "seal": "👶",
+            "photo": "fotos/24.jpeg",
+            "text": "Feliz cumpleaños chepe, espero que hoy la pase una chimba y disfrute mucho su día. Gracias por tantos años de amistad, por todos los parches, las risas, las locuras y por cada momento que hemos compartido. Es muy chimba mirar atrás y darse cuenta de todo lo que hemos vivido desde que éramos unos chinos, todo lo que ha pasado, cómo hemos cambiado y que todavía seguimos ahí los mismos 3 de siempre.\n\nTambién quería agradecerle por siempre estar para mí, por escucharme cuando lo necesito y por nunca dejarme tirado. Usted sabe que conmigo puede contar para lo que sea, así como yo sé que puedo contar con usted. De verdad valoro mucho tener una amistad como la que tenemos y espero que siga siendo así por muchos años más.\n\nEstoy muy orgulloso de todo lo que está consiguiendo y de la persona en la que se está convirtiendo. No deje de meterle ganas a sus sueños, porque sé que tiene con qué conseguir todo lo que se proponga. Siga dándole duro y nunca se rinda, que todavía faltan muchas cosas por vivir y celebrar juntos.\n\nLo quiero mucho, parcero. Que cumpla muchos más y que hoy se dé la buena vida porque se lo merece."
+        },
+        {
+            "from": "Tu comadre Diana",
+            "seal": "🤰",
+            "photo": "fotos/carta-diana.jpg",
+            "text": "Gracias por alimentar no solo el estómago sino el alma. Cada reunión en tu casa es un abrazo gastronómico. Tus hijos tienen la mejor figura de hermandad: tú."
+        },
+        {
+            "from": "Comadre Zafrix",
+            "seal": "💃",
+            "photo": "fotos/21.jpg",
+            "text": "Texto de la carta"
+        }
+    ],
+    "certificado": "Por el arte de alimentar el cuerpo y el espíritu, y por demostrar que un buen amigo vale más que cualquier banquete imperial.",
+    "ticketItems": [
+        {
+            "desc": "Cena Completa",
+            "note": "Esta vez sin pagos extra"
+        },
+        {
+            "desc": "Pack de Cervezas",
+            "note": "Artesanales y bien frías"
+        },
+        {
+            "desc": "Charla Ilimitada",
+            "note": "Soporte 24/7"
+        },
+        {
+            "desc": "Vigencia",
+            "note": "Sin fecha de expiración"
+        }
+    ],
+    "musica": {
+        "titulo": "Música del Chef",
+        "tracks": [
+            {
+                "id": "fondo",
+                "titulo": "Fondo Culinario",
+                "src": "music/fondo.mp3"
+            },
+            {
+                "id": "tema2",
+                "titulo": "Sobremesa",
+                "src": "music/Vicente Fernández - Mi Viejo.mp3"
+            },
+            {
+                "id": "tema3",
+                "titulo": "Noche de Servicio",
+                "src": "music/Ojos Chinos.mp3"
+            }
+        ]
+    },
+    "quiz": [
+        {
+            "q": "¿Cómo calificarías esta experiencia?",
+            "opts": [
+                "★★★★★  Sin palabras",
+                "★★★★  Fantástico, repetiré",
+                "★★ Un mal servicio"
+            ],
+            "feedback": "Sea cual sea la opción, es un detalle con muchísimo amor, eres importante y nunca dudes de eso. Aunque el servicio sabemos que dará frutos"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "texts": {
+        "coverTitle": "Sazón  de la vida",
+        "coverSubtitle": "Álbum de Recetas & Cartas",
+        "coverDedication": "Dedicado a",
+        "coverButton": "Abrir Recetario",
+        "pageNames": [
+            "PORTADA",
+            "COMANDA",
+            "MISE EN PLACE",
+            "ÁLBUM",
+            "CARTAS",
+            "RECUERDOS",
+            "COMANDA FINAL"
+        ],
+        "page1Quote": "Para quien entiende que cocinar no es solo tirar ingredientes, sino entregar el alma en cada servicio.",
+        "page2Title": "Mise en Place",
+        "page2Desc": "Todo gran plato nace en una preparación impecable",
+        "page2Quote": "En la cocina profesional, como en la vida, el orden de la partida define como acaba el servicio",
+        "page3Title": "Álbum de Recetas",
+        "page3Desc": "Haz clic en cada foto para ver la historia completa",
+        "page3Quote": "Una foto vale más que mil palabras, pero una foto compartida vale más que mil recetas ",
+        "page4Title": "Cartas de los Nuestros",
+        "page4Desc": "Cada carta es un abrazo. Toca para leer la completa.",
+        "page5Title": "Recuerdos: Tu Camino a lo que Eres Hoy",
+        "page5Desc": "Cada foto es un capítulo de tu historia. Toca para revivirlo.",
+        "page5Quote": "Los recuerdos son los ingredientes que dan sabor a quien somos.",
+        "page6Title": "La Comanda",
+        "page6Desc": "Un boleto para ti"
+    },
+    "chef": {
+        "name": "Chef Juanjo - Chesito",
+        "title": "Chef Ejecutivo & Jefe de Cocina",
+        "emoji": "👨‍🍳",
+        "noteKicker": "CHEF · NOTA PERSONAL",
+        "noteTitle": "La Receta de Nuestra Amistad",
+        "noteText": "¡Prueba siempre antes de servir! Nunca mandes un plato que no comas tú primero.",
+        "noteFoot": "CHESITO · LA RECETA DE NUESTRA AMISTAD",
+        "noteStamp": "Sello del Chef",
+        "photo": "fotos/12.jpeg"
+    },
+    "comanda": {
+        "mesa": "Los Extraditables",
+        "comensales": "1",
+        "fecha": "12 de Septiembre del 2026"
+    },
+    "ingredientes": [
+        {
+            "id": "Amor de madre",
+            "emoji": "👩‍👦",
+            "photo": "fotos/22.jpeg",
+            "title": "Amor de madre",
+            "desc": "El ingrediente que hace crecer cualquier receta",
+            "anecdota": "Nunca se empieza un buen día sin la bendición de madre, quien apoya cada momento y pequeño logro en esta vida. Literal por eso existe la gran masa madre"
+        },
+        {
+            "id": "Condimento Sorpresa",
+            "emoji": "🧧",
+            "photo": "fotos/5.jpeg",
+            "title": "Condimento Sorpresa",
+            "desc": "Su especialidad es convertir cualquier momento en una buena anécdota",
+            "anecdota": "Un ingrediente impredecible, espontáneo y con mucha personalidad. Nunca sabes cuándo aparece, pero una vez esta en la receta es imposible que pase desapercibido "
+        },
+        {
+            "id": "Chispa",
+            "emoji": "🔥",
+            "photo": "fotos/17.jpeg",
+            "title": "Chispa",
+            "desc": "Su función es encender el ambiente y dejar huella donde quiera que esté",
+            "anecdota": "Una chispa intensa, auténtica y llena de energía. Esa que aparece en cada momento y le pone carácter, emoción y este toque tan suyo en la receta."
+        },
+        {
+            "id": "Reserva especial",
+            "emoji": "🍷",
+            "photo": "fotos/23.jpeg",
+            "title": "Reserva especial",
+            "desc": "Su finalidad es crecer, evolucionar y convertirse en una mejor versión de sí mismo",
+            "anecdota": "Un ingrediente que adquiere más valor con el tiempo, construido a partir de experiencias, aprendizajes y sueños que están aún por descubrir"
+        }
+    ],
+    "fotos": [
+        {
+            "src": "fotos/1.jpeg",
+            "title": "Receta Familiar",
+            "story": "Como ya es tradición, un asado entre nosotros se convierte en una anécdota indescriptible, al igual que enmarcar nuestra pose preferida para las fotos "
+        },
+        {
+            "src": "fotos/6.jpeg",
+            "title": "Sobremesa Infinita",
+            "story": " Esos planes que  nacen en una charla casual, terminan siendo los planes más recordados. La iniciativa de uno, la idea del segundo y la decisión del tercero hacen todo realidad. PERO CUIDADO si uno falta nunca será lo mismo"
+        },
+        {
+            "src": "fotos/13.jpeg",
+            "title": "El Día del Gran Banquete",
+            "story": "Lugares como este nos saca nuestro lado más estúpido. Juegos, saltarines, circuitos, luchas y en medio de esa locura se nos ocurre una foto como 3 salchichas luego de un salto extraño. "
+        },
+        {
+            "src": "fotos/8.jpeg",
+            "title": " Nuestro Primer Servicio",
+            "story": "Nuevamente saliendo de la nada, en una coincidencia entre millones. Así fue nuestro primer viaje, mucha piscina como niños pequeños, una noche sentimental incluso despechados y  nuestro favorito el charco #pipeguerrillo"
+        }
+    ],
+    "galeria": [
+        {
+            "src": "fotos/11.jpeg",
+            "titulo": "Primeros fogones",
+            "pie": "Como no empezar con una foto tan mítica"
+        },
+        {
+            "src": "fotos/18.jpeg",
+            "titulo": "Personalidad",
+            "pie": "Un disfraz, carisma y esa sonrisota"
+        },
+        {
+            "src": "fotos/9.jpeg",
+            "titulo": "Compañeros en la vida",
+            "pie": "Un grupo de amigos que viene sentando bases y apoyando todos los proyectos"
+        },
+        {
+            "src": "fotos/3.jpeg",
+            "titulo": "Crecimiento",
+            "pie": "Una foto poco esperada, pero nos demuestra un cambio abismal"
+        }
+    ],
+    "cartas": [
+        {
+            "from": "Mamá Stellita",
+            "seal": "👩‍👧",
+            "photo": "fotos/14.jpeg",
+            "text": "Hijo mío desde que estabas en mi pancita, te amamos mucho, tu hermanito ,Te consentía mucho ,eras los ojos de tu hermanito y de tu padre y aún todos nos preocupamos por ti, siempre ha sido así,  has sido amado y a medida de tu crecimiento como persona , en la parte humana ,en la parte espiritual ,en la parte física,  Recuerda que eres hermoso y Dios quiere lo mejor para ti, cuida de tu cuerpo, es Templo del Espíritu Santo , por eso debes evitar el alcohol debes evitar esas malas compañías que te alejan de propósito de Dios y Siéntate orgulloso, de ser quien eres, nos sentimos muy orgullosos de ti porque con  tus bromas, con tu alegría, con tu sonrisa, con tus travesuras, nos hace sentir muy felices,  hijo No dejes Apagar esa luz que hay en ti, y el señor tiene cosas grandes para ti, todos estamos muy orgullosos y sé que vas a llegar muy lejos, tienes que seguir trabajando, en tu ser de la manita de papito Dios y él te va a llevar a lugares maravillosos,  ámalo a él primeramente, también a tus padres todo se reflejará en tus buenos resultados, Recuerda que Dios tiene esa chica ideal para ti amor , y vas a ser muy feliz , estudia eduquese lo más que pueda, respeta para que te respeten y que Dios te bendiga y te proteja siempre. Con amor tu mami  Stellita"
+        },
+        {
+            "from": "Brayitan",
+            "seal": "👽",
+            "photo": "fotos/10.jpeg",
+            "text": "Bueno chesito, cuando lea esto, ya habrá leído mi primer mensaje, ese no faltará. Ñerito otra vez digo, mi hermano de otra madre, ha sido esa compañia, ese apoyo, ese carisma, todo. Empezamos conociendonos en la cuadra, niños de 3 y 4 años, peleas, lloriqueos, pero nunca faltaron las buenas risas y darnos cuenta que pegabamos muy bien. Anecdotas como días en una sala de xbox después de decir que ibamos a la cancha, empezar cualquier deporte, recochas de futbol, pioneros en el baloncesto (Donde eramos increíbles, intercolegiados, torneos y una rivalidad sana en niveles). Luego entramos una etapa donde la madurez nos pegó y encontramos vocación, proyectos de vida y crecimiento, pero lo más importante, darme cuenta que mis hijos llamaran tío che a mi compañero en la vida. Eso es algo minimo ñero, usted sabe que estoy orgullosisimo de usted, de lo que es, del gran hombre que se ha convertido y va a ser. Así encuentre obstáculos en su vida, tiene un poder inmenso para cambiar las reglas. Este será un detalle para que se de cuenta que no lo pasamos desapercibido, nos damos cuenta de todo lo que logra y nos conmueve. Feliz cumpleaños papito lindo, siga con estas cartas y estas secciones de recuerdos. Lo quiero muchísimo chesito"
+        },
+        {
+            "from": "Papá Edinson",
+            "seal": "👨‍👦",
+            "photo": "fotos/16.jpeg",
+            "text": "Hijo deseándote siempre lo mejor recuerda que eres muy inteligente el tiempo pase se nos va la vida aprovecha aprovéchala y prepárate físicamente intelectualmente Y espiritualmente la felicidad depende solo de ti recuerda que te amo mucho feliz cumpleaños."
+        },
+        {
+            "from": "Pipitas",
+            "seal": "👶",
+            "photo": "fotos/24.jpeg",
+            "text": "Feliz cumpleaños chepe, espero que hoy la pase una chimba y disfrute mucho su día. Gracias por tantos años de amistad, por todos los parches, las risas, las locuras y por cada momento que hemos compartido. Es muy chimba mirar atrás y darse cuenta de todo lo que hemos vivido desde que éramos unos chinos, todo lo que ha pasado, cómo hemos cambiado y que todavía seguimos ahí los mismos 3 de siempre.\n\nTambién quería agradecerle por siempre estar para mí, por escucharme cuando lo necesito y por nunca dejarme tirado. Usted sabe que conmigo puede contar para lo que sea, así como yo sé que puedo contar con usted. De verdad valoro mucho tener una amistad como la que tenemos y espero que siga siendo así por muchos años más.\n\nEstoy muy orgulloso de todo lo que está consiguiendo y de la persona en la que se está convirtiendo. No deje de meterle ganas a sus sueños, porque sé que tiene con qué conseguir todo lo que se proponga. Siga dándole duro y nunca se rinda, que todavía faltan muchas cosas por vivir y celebrar juntos.\n\nLo quiero mucho, parcero. Que cumpla muchos más y que hoy se dé la buena vida porque se lo merece."
+        },
+        {
+            "from": "Primita Vale",
+            "seal": "💄",
+            "photo": "fotos/2.jpeg",
+            "text": "Hoy estoy agradecida con Dios por permitirme tenerte en mi vida y, sobre todo, saber que eres parte de mi familia. Me siento afortunada de haber compartido contigo tantos momentos, saber que cuando me sienta mal solo tengo que llamarte y sé que en 10 minutos llegarás a arreglarme el día. Quiero que nunca olvides que puedes contar conmigo para lo que necesites; cada vez que sientas que tu mundo se está derrumbando, que las cosas no salen como esperabas o simplemente necesites a alguien con quien hablar, sabes muy bien que ahí estaré para ti, para escucharte y acompañarte. Te amo muchísimo y espero que nunca vuelvas a permitir que una mujer te haga dudar de tu valor o de la persona que eres, porque tu eres un maravilloso amigo, hijo, hermano, y por supuesto, un primo increíble, y no es justo que por culpa de una decepción amorosa te olvides de todas las cualidades que tienes y todo lo bueno que hay en ti.\n\nMe siento muy orgullosa de ti por todo lo que has logrado porque sé que no ha sido fácil, pero aun así nunca te rendiste y seguiste luchando por tus sueños. Deseo de todo corazón que este nuevo año de vida esté lleno de bendiciones, nuevas oportunidades,  muchas alegrías y sueños cumplidos; pero sobre todo, espero continúes de la mano de Dios porque estoy segura de que Él tiene grandes cosas preparadas para tu vida y nunca te va a abandonar.\n\nFeliz cumpleaños mi juanjo, te quiero y te amo muchísmo❤️.\nPdta:Prepárese para esa pea que nos vamos a pegar, porque 20 solo se cumple una vez."
+        },
+        {
+            "from": "Comadre Zafrix",
+            "seal": "💃",
+            "photo": "fotos/21.jpg",
+            "text": "Oído, chef. \n\nDicen que el umami es ese sabor difícil de explicar, ese que no siempre sabes describir, pero que cuando aparece hace que todo tenga un sentido especial. Y creo que la vida también es un poco así, una mezcla de sabores, personas, momentos y casualidades que, con el tiempo, terminan creando algo inimaginable.\n\nPorque eres el inigualable mejor amigo del amor de mi vida, ese parcero que llegó a ser una ficha clave de nuestra historia y que, si Dios lo permite, algún día tendrá el honor de convertirse en el padrino de nuestros hijos.\n\nHe tenido la fortuna de conocer a ese niño que poco a poco se está convirtiendo en un hombre de pasiones: por los suyos, por la gastronomía, por sentir demasiado, por vivir traannquiloooo.\n\nSé que tu determinación, tu pasión y esa voracidad por comerte el mundo te van a llevar muy alto. Y nosotros vamos a estar ahí, en primera fila para celebrar tus logros, para aplaudirte muy fuerte cuando lleguen las grandes victorias y para alentarte cuando el plato no salga como esperabas.\n\nPorque también de eso se trata la cocina y la vida de aprender, ajustar, volver a intentar y confiar en el proceso.\n\nQuiero que recuerdes siempre la persona que debe estar orgullosa de ti primero eres tú mismo.\n\nQuienes te rodeamos ya lo estamos.\n\nConocemos de qué estás hecho. Sabemos que eres un hombre hecho a presión, en cocina caliente, rodeado de fuego, de sueños, de ganas y de un hambre voraz por crecer, aprender y comerte el mundo.\n\nPero recuerda, chef, que hasta los mejores platos necesitan su tiempo de cocción.\n\nTe quiero, compadre. ❤️‍🔥"
+        },
+        {
+            "from": "Doña Anita",
+            "seal": "🤶",
+            "photo": "fotos/25.jpeg",
+            "text": "La abuelita le manda este mensaje: hola mijo, felicitaciones , recuerde que lo quiero mucho y cuidese mijo"
+        },
+        {
+            "from": "La ñañissss",
+            "seal": "👜",
+            "photo": "fotos/27.jpeg",
+            "text": "Feliz vida a mi vida, al primo y al hermano que me regaló la vida,te amo, amo a ese gran hombre y niño que eres, al hombre más encantador, el más detallista, el hombre dedicado y apasionado, el niño soñador que eres. Doy gracias a Dios y a la vida de permitirme celebrar tu vida, tus 20 años de existencia, que seas muy feliz siempre y que cada anhelo de tu corazón se haga realidad, la distancia jamás será impedimento para amarte y festejar cada dia de tu existencia, te llevo en mi corazón y en mis recuerdos siempre, confío en que Dios nos tiene muchas cosas buenas preparadas y que esta distancia solo será momentánea, te amo con locura Chepe🤎"
+        },
+        {
+            "from": "La gorda",
+            "seal": "🏋️‍♀️",
+            "photo": "fotos/26.jpg",
+            "text": "Mención honorífica"
+        },
+        {
+            "from": "Un angelito en el cielo",
+            "seal": "☁",
+            "photo": "fotos/28.jpeg",
+            "text": "Una sorpresa más para que te llegue a lo más profundo del corazón\n\nPara mi Juanchito.\n\nSoy tu abuelito desde aquí arriba. Te sigo viendo con el mismo amor de siempre, quiero que seas un hombre de bien, correcto, de palabra, que no te dejes llevar por malas amistades, mi hijo, tú vales mucho más que eso.\n\nAprovecha el tiempo Juanchito, el tiempo no vuelve, vívelo en paz, sin pelear con nadie, con el corazón limpio y por encima de todo, honra a tus padres, quiérelos y respétalos que ellos dan la vida por ti. Nunca se te olvide que tu abuelito te quiso con toda el alma y cada vez que te comas un heladito acuérdate de mí, te amo mi Juanchito, sé grande pero sobre todo, sé bueno.\n\nTu abuelito\nRosenberg Sánchez Betancourt"
+        }
+    ],
+    "certificado": "Por el arte de alimentar el cuerpo y el espíritu, y por demostrar que un buen amigo vale más que cualquier banquete imperial.",
+    "ticketItems": [
+        {
+            "desc": "Cena Completa",
+            "note": "Esta vez sin pagos extra"
+        },
+        {
+            "desc": "Pack de Cervezas",
+            "note": "Artesanales y bien frías"
+        },
+        {
+            "desc": "Charla Ilimitada",
+            "note": "Soporte 24/7"
+        },
+        {
+            "desc": "Vigencia",
+            "note": "Sin fecha de expiración"
+        }
+    ],
+    "musica": {
+        "titulo": "Música del Chef",
+        "tracks": [
+            {
+                "id": "fondo",
+                "titulo": "Fondo Culinario",
+                "src": "music/fondo.mp3"
+            },
+            {
+                "id": "tema2",
+                "titulo": "Sobremesa",
+                "src": "music/Vicente Fernández - Mi Viejo.mp3"
+            },
+            {
+                "id": "tema3",
+                "titulo": "Noche de Servicio",
+                "src": "music/Ojos Chinos.mp3"
+            }
+        ]
+    },
+    "quiz": [
+        {
+            "q": "¿Cómo calificarías esta experiencia?",
+            "opts": [
+                "★★★★★  Sin palabras",
+                "★★★★  Fantástico, repetiré",
+                "★★ Un mal servicio"
+            ],
+            "feedback": "Sea cual sea la opción, es un detalle con muchísimo amor, eres importante y nunca dudes de eso. Aunque el servicio sabemos que dará frutos"
+        }
+    ]
+}
